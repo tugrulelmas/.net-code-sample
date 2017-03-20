@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{ACD526FB-92B2-4E28-98E5-3AFC33D58F00}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySqlTest/Services/IService.cs">
+    <Files>
+      <File FileName="MySqlTest/Startup.cs" Line="34" Column="56" />
+      <File FileName="MySqlTest/Controllers/UsersController.cs" Line="21" Column="1" />
+      <File FileName="MySqlTest/Helpers/CustomActionFilter.cs" Line="15" Column="1" />
+      <File FileName="MySqlTest/DynamicHandlers/IDynamicHandler.cs" Line="4" Column="24" />
+      <File FileName="MySqlTest/AutoFactModule.cs" Line="8" Column="3" />
+      <File FileName="MySqlTest/Services/IService.cs" Line="14" Column="1" />
+      <File FileName="MySqlTest/DynamicHandlers/LogHandler.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tugrul/projects/MySqlTest/MySqlTest/DynamicHandlers/LogHandler.cs" relfile="MySqlTest/DynamicHandlers/LogHandler.cs" line="10" column="1" />
+      <Breakpoint file="/Users/tugrul/projects/MySqlTest/MySqlTest/Helpers/CustomActionFilter.cs" relfile="MySqlTest/Helpers/CustomActionFilter.cs" line="11" column="1" />
+      <Breakpoint file="/Users/tugrul/projects/MySqlTest/MySqlTest/Helpers/CustomActionFilter.cs" relfile="MySqlTest/Helpers/CustomActionFilter.cs" line="15" column="1" />
+      <Breakpoint file="/Users/tugrul/projects/MySqlTest/MySqlTest/Controllers/UsersController.cs" relfile="MySqlTest/Controllers/UsersController.cs" line="16" column="1" />
+      <Breakpoint file="/Users/tugrul/projects/MySqlTest/MySqlTest/Services/IService.cs" relfile="MySqlTest/Services/IService.cs" line="14" column="15" />
+      <Breakpoint file="/Users/tugrul/projects/MySqlTest/MySqlTest/Controllers/UsersController.cs" relfile="MySqlTest/Controllers/UsersController.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MySqlTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

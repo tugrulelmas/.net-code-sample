@@ -1,0 +1,8 @@
+/Users/tugrul/projects/MySqlTest/MySqlTest/bin/Debug/netcoreapp1.1/MySqlTest.deps.json
+/Users/tugrul/projects/MySqlTest/MySqlTest/bin/Debug/netcoreapp1.1/MySqlTest.runtimeconfig.json
+/Users/tugrul/projects/MySqlTest/MySqlTest/bin/Debug/netcoreapp1.1/MySqlTest.runtimeconfig.dev.json
+/Users/tugrul/projects/MySqlTest/MySqlTest/bin/Debug/netcoreapp1.1/MySqlTest.dll
+/Users/tugrul/projects/MySqlTest/MySqlTest/bin/Debug/netcoreapp1.1/MySqlTest.pdb
+/Users/tugrul/projects/MySqlTest/MySqlTest/obj/Debug/netcoreapp1.1/MySqlTest.AssemblyInfo.cs
+/Users/tugrul/projects/MySqlTest/MySqlTest/obj/Debug/netcoreapp1.1/MySqlTest.dll
+/Users/tugrul/projects/MySqlTest/MySqlTest/obj/Debug/netcoreapp1.1/MySqlTest.pdb
